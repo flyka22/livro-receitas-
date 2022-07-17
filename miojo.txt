@@ -1,0 +1,13 @@
+com typer e mark dow da pra colocar o cod antes pafra editar a letra 
+
+ex # titulo iria sair grande 
+
+exp. ** frase ** sai negrito 
+italico _italico_ texto 
+emoticom :(nome do emoti)
+:chiken 
+
+### titulo menor 
+- - cria lista ou seja bolinha 
+
+no makdow tem um guia com os caminhos com os comandos de texto ir em ajuda e em reference que acha.
